@@ -17,9 +17,11 @@ The project demonstrates circuit modeling in SPICE, delay and timing analysis, a
 ##  Project Structure
 
 VLSI-Inverter-Chain/
-├── pseudo_nmos.sp           # Chain of three pseudo-NMOS inverters
-├── cmos_inverter.sp         # Chain of three CMOS inverters
-├── transmission_gate.sp     # CMOS transmission gate circuit
-├── README.md                # Project documentation
+- pseudo_nmos.sp           : Chain of three pseudo-NMOS inverters
+- cmos_inverter.sp         : Chain of three CMOS inverters
+- transmission_gate.sp     : CMOS transmission gate circuit
+- README.md                : Project documentation
+
+
 
 
